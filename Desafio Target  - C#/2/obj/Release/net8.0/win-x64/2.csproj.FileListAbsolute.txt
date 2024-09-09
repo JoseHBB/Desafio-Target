@@ -1,0 +1,14 @@
+D:\C# Target\2\bin\Release\net8.0\win-x64\2.exe
+D:\C# Target\2\bin\Release\net8.0\win-x64\2.deps.json
+D:\C# Target\2\bin\Release\net8.0\win-x64\2.runtimeconfig.json
+D:\C# Target\2\bin\Release\net8.0\win-x64\2.dll
+D:\C# Target\2\bin\Release\net8.0\win-x64\2.pdb
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.AssemblyInfoInputs.cache
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.AssemblyInfo.cs
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.csproj.CoreCompileInputs.cache
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.dll
+D:\C# Target\2\obj\Release\net8.0\win-x64\refint\2.dll
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.pdb
+D:\C# Target\2\obj\Release\net8.0\win-x64\2.genruntimeconfig.cache
+D:\C# Target\2\obj\Release\net8.0\win-x64\ref\2.dll

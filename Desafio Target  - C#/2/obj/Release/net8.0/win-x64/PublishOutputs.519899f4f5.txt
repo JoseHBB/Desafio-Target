@@ -1,0 +1,5 @@
+D:\C# Target\1\2.exe
+D:\C# Target\1\2.dll
+D:\C# Target\1\2.deps.json
+D:\C# Target\1\2.runtimeconfig.json
+D:\C# Target\1\2.pdb
